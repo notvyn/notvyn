@@ -71,9 +71,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com/?user=notvyn&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=notvyn&theme=gruvbox&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="streak graph"  />
 </div>
 
 ###
