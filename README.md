@@ -71,27 +71,30 @@
 ###
 
 <div data-importer="stats" align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://streak-stats.demolab.com/?user=notvyn&theme=gruvbox&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=notvyn&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=notvyn&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div data-importer="profile-views" align="right">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:notvyn?theme=capoo-1&padding=15&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/a4/5b/05/a45b0531787121bb0a74d82b1da41949.gif"  />
-
-###
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notvyn/notvyn/output/bomberman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notvyn/notvyn/output/bomberman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notvyn/notvyn/output/bomberman-contribution-graph.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notvyn/notvyn/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notvyn/notvyn/output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notvyn/notvyn/output/breakout-contribution-graph.svg">
 </picture>
 
 ###
+
+<h3 data-importer="text" align="left">✍️ Random Dev Quote</h3>
+
+<div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="random dev quotes" />
+
+  <img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/a4/5b/05/a45b0531787121bb0a74d82b1da41949.gif"  />
+
+  <div data-importer="profile-views" align="right">
+    <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=notvyn.notvyn&"  />
+  </div>
+</div>
+
